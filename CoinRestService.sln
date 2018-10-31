@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinRestService", "CoinRestService\CoinRestService.csproj", "{EBA2E58B-C856-4ACD-BF81-8F563EC0E035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modelLibrary", "modelLibrary\modelLibrary.csproj", "{9DC82776-F52D-402A-ACB4-533A04C45037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA2E58B-C856-4ACD-BF81-8F563EC0E035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA2E58B-C856-4ACD-BF81-8F563EC0E035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA2E58B-C856-4ACD-BF81-8F563EC0E035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA2E58B-C856-4ACD-BF81-8F563EC0E035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC82776-F52D-402A-ACB4-533A04C45037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC82776-F52D-402A-ACB4-533A04C45037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC82776-F52D-402A-ACB4-533A04C45037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC82776-F52D-402A-ACB4-533A04C45037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9B02327-9EF2-4D3F-8BCA-3400BC8D6F9E}
+	EndGlobalSection
+EndGlobal
